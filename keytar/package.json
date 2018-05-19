@@ -43,7 +43,7 @@
   "binary": {
     "module_name": "keytar",
     "module_path": "./build/{module_name}-v{version}-{node_abi}-{platform}-{arch}/",
-    "host": "localhost",
+    "host": "https://github.com/facebook-atom/nuclide-prebuilt-libs/download/releases/todo",
     "package_name": "{module_name}-v{version}-{node_abi}-{platform}-{arch}.tar.gz"
   },
   "private": true
