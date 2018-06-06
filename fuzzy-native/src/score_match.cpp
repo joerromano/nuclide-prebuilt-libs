@@ -2,7 +2,7 @@
 
 /**
  * This is mostly based on Greg Hurrell's implementation in
- * https://github.com/wincent/command-t/blob/master/ruby/command-t/match.c
+ * https://github.com/wincent/command-t/blob/master/ruby/command-t/ext/command-t/match.c
  * with a few modifications and extra optimizations.
  */
 
